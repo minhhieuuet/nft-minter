@@ -41,9 +41,7 @@
         {
             "trait_type": "Headwear",
             "value": "Zombie hat"
-        }
-    ],
-    "traits": [
+        },
         {
             "display_type": "boost_number",
             "trait_type": "Stamina",
@@ -59,5 +57,7 @@
             "trait_type": "birthday", 
             "value": 1546360800
         }
+    ],
+    "traits": [
     ]
 }
