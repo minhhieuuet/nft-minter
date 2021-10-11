@@ -1,1 +1,46 @@
-{"dna":"012140016","name":"#7","description":"The Nerdy Coder Clones, eats, breaths, and dreams code, maybe because they were created by code. Only 1000 of these coders exist and was created by HashLips.","image":"https://nerdycoderclones.online/metedata/7.png","edition":7,"date":1633928392522,"attributes":[{"trait_type":"Body","value":"Nerd"},{"trait_type":"Clothing","value":"Purple shirt"},{"trait_type":"Clothing logo","value":"Red circle"},{"trait_type":"Eyebrows","value":"Plain"},{"trait_type":"Eyes","value":"Stare"},{"trait_type":"Eyewear","value":"None"},{"trait_type":"Mouth","value":"pout"},{"trait_type":"Nose","value":"Pointy"},{"trait_type":"Headwear","value":"Zombie hat"}]}
+{
+    "dna": "012140016",
+    "name": "#7",
+    "description": "The Nerdy Coder Clones, eats, breaths, and dreams code, maybe because they were created by code. Only 1000 of these coders exist and was created by HashLips.",
+    "image": "https://nerdycoderclones.online/metedata/7.png",
+    "edition": 7,
+    "date": 1633928392522,
+    "attributes": [
+        {
+            "trait_type": "Body",
+            "value": "Nerd"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Purple shirt"
+        },
+        {
+            "trait_type": "Clothing logo",
+            "value": "Red circle"
+        },
+        {
+            "trait_type": "Eyebrows",
+            "value": "Plain"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Stare"
+        },
+        {
+            "trait_type": "Eyewear",
+            "value": "None"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "pout"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Pointy"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Zombie hat"
+        }
+    ]
+}
